@@ -40,4 +40,4 @@ gene_smallest_largest_rf.sh
 
 
 Consult the Dockerfile and the linux.yaml for necessary tools and filepaths
-
+I couldn't submit the split alignments and the phylogenetic trees folders as they have too many files and it is not practical to upload them in a GitHub if you need them maybe provide a more efficient way.

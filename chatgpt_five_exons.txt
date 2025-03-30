@@ -1,0 +1,103 @@
+#uc001gtj.4 Exon 9_22 alignment 55:
+Gene Name: Complement Factor H :
+Information:Complement Factor H (CFH) is a key regulator of the complement system, which is part of the immune system that helps the body fight infections. Here's a brief summary:
+Key Facts About Complement Factor H (CFH):
+•	Gene Location: The CFH gene is located on chromosome 1 in humans.
+•	Function:
+o	Complement Factor H regulates the alternative pathway of the complement system, a critical part of the immune response. It helps to prevent excessive activation of this pathway, thereby protecting the body's own cells from being damaged by the immune response.
+o	It binds to activated complement components (like C3b) and accelerates their decay, which prevents excessive inflammation and tissue damage.
+•	Clinical Significance:
+o	Mutations or deficiencies in CFH are linked to several diseases, including:
+	Age-related macular degeneration (AMD): A leading cause of blindness in older adults, where inappropriate complement activation damages the retina.
+	Atypical hemolytic uremic syndrome (aHUS): A rare kidney disease caused by uncontrolled complement activation, leading to damage of the kidneys and other organs.
+	C3 glomerulopathy: A kidney disorder that involves improper complement activation in kidney tissues.
+•	Protein Structure: The protein is composed of several domains that help it interact with other complement components and control their activation. Complement Factor H binds to C3b, inhibiting its action and ensuring the complement system doesn't damage the host's cells.
+•	Gene Variants: Genetic variants in the CFH gene can affect its function, leading to either underactivity (which can cause immune dysregulation) or overactivity (which can cause the complement system to attack the body’s own tissues).
+In Summary:
+•	Complement Factor H plays an essential role in controlling the immune response by regulating the complement system, preventing it from attacking the body’s own cells. Its malfunction is linked to eye diseases and kidney disorders.
+
+#uc057dgm.1 Exon 4_11 alignment 317:
+Elongin-A
+Gene Information: Elongin-A (ELOA)
+Elongin-A (ELOA) Gene:
+•	Function: Elongin-A is a subunit of the Elongin complex, which is involved in the regulation of transcription elongation by RNA polymerase II. The complex facilitates the process of transcription by helping RNA polymerase move along the DNA during gene expression.
+•	Elongin Complex:
+o	The Elongin complex consists of Elongin-A, Elongin-B, and Elongin-C. It acts by stabilizing the elongation machinery of RNA polymerase, which is crucial for proper transcription.
+•	Role in Disease:
+o	Mutations in Elongin-A or its associated complexes can potentially affect transcription regulation and gene expression, leading to dysregulation of cellular processes.
+•	Human Isoform: In humans, Elongin-A has multiple isoforms (such as ELOA isoform 3), each with slightly different roles in transcriptional regulation.
+Biological Pathways:
+•	Elongin-A is involved in key processes related to gene expression and transcription, especially under conditions where precise control of transcription is required. It is often involved in various cellular stress responses or developmental processes.
+In Summary:
+•	The Elongin-A (ELOA) gene is crucial for transcriptional elongation and the regulation of RNA polymerase II activity.
+•	Mutations or changes in its function can influence gene expression, with potential effects on cellular function and regulation.
+•	The gene is highly conserved across species, as shown by the sequence similarities between humans and other primates like chimpanzees and bonobos.
+
+
+#uc001ggs.5 Exon 12_13 alignment 12 
+Protein-associating with the carboxyl-terminal domain of ezrin isoforms X3, X2, 1, and 2.
+•  These proteins are all variants associated with Ezrin, a protein involved in cell signaling and cytoskeletal interactions.
+Gene Information: Ezrin (EZR)
+Ezrin (EZR) Gene:
+•	Function: Ezrin is a member of the ERM (ezrin, radixin, moesin) family of proteins. These proteins act as links between the plasma membrane and the actin cytoskeleton, facilitating cell shape changes, adhesion, migration, and signal transduction.
+•	Role in Cells:
+o	Ezrin plays an essential role in maintaining the structural integrity of the cell membrane and regulating cell surface receptors.
+o	It connects the cell membrane to the cytoskeleton, helping the cell maintain its shape and aiding in processes like cell movement, endocytosis, and signal transduction.
+•	EZR and Cell Signaling: Ezrin's association with the carboxyl-terminal domain allows it to bind to phosphorylated proteins, regulating cell signaling pathways involved in processes such as cell growth, differentiation, and cell adhesion.
+•	Clinical Significance:
+o	Alterations in Ezrin or its regulation can lead to various diseases, including cancer, where it plays a role in tumor metastasis and tumor cell migration.
+o	Ezrin is also involved in processes like neural development and immune responses.
+•	Isoforms: The Ezrin gene produces multiple isoforms, including:
+o	Isoform 1: The canonical isoform, involved in general cell function.
+o	Isoform X2, X3: Different variants that may have tissue-specific roles or different regulatory functions in cell signaling.
+Biological Pathways:
+•	Ezrin is involved in several key cellular pathways:
+o	Cell adhesion: It helps link the cytoskeleton to the membrane, which is crucial for maintaining cell-cell and cell-matrix interactions.
+o	Signaling: It plays a role in pathways such as Ras signaling and integrin signaling.
+o	Neuronal function: It regulates aspects of neuronal development and synaptic plasticity.
+In Summary:
+•	The Ezrin protein is a crucial linker between the cell membrane and the cytoskeleton, playing important roles in cell shape maintenance, signaling, and movement.
+•	Ezrin is particularly significant in cell adhesion, cancer metastasis, and neuronal signaling.
+•	It has multiple isoforms, each potentially involved in different biological contexts
+
+#uc001aru Exon 11_11 alignment 255:
+Mannan-binding lectin serine protease 2 (MASP-2), including its isoforms.
+Gene Information: Mannan-binding lectin serine protease 2 (MASP-2)
+MASP-2 (Gene: MASP2):
+•	Function: MASP-2 is a crucial enzyme involved in the lectin pathway of the complement system, which is part of the immune system. This pathway is responsible for defending the body against pathogens by recognizing and clearing microorganisms through complement activation.
+•	Role in the Immune System:
+o	MASP-2 associates with Mannan-binding lectin (MBL), a pattern recognition molecule that binds to carbohydrate structures found on the surface of pathogens.
+o	MASP-2 is a serine protease that, when activated, cleaves C4 and C2 in the complement cascade, leading to the formation of the C3 convertase, which is essential for complement activation and immune responses.
+o	It plays a role in the innate immune response by aiding in the opsonization of pathogens (marking them for destruction) and enhancing phagocytosis.
+•	Clinical Significance:
+o	MASP-2 mutations or deficiencies can lead to immunodeficiencies and affect the body's ability to fight infections.
+o	Aberrant MASP-2 activity has also been implicated in autoimmune diseases, such as systemic lupus erythematosus (SLE), and inflammatory diseases.
+•	Isoforms: The gene MASP2 can produce different isoforms, such as:
+o	Isoform 1: The canonical form that is involved in complement activation.
+o	Isoform X: Variants that may be tissue-specific or involved in different regulatory aspects of the immune system.
+•	Biological Pathways:
+o	Complement activation: MASP-2 plays a central role in the lectin pathway of complement activation, alongside Mannan-binding lectin (MBL).
+o	Immune response: It helps in pathogen recognition and initiating immune responses that lead to pathogen clearance and inflammation.
+In Summary:
+•	MASP-2 is an important enzyme in the immune system, particularly in the lectin pathway of complement activation.
+•	It plays a role in immune defense against pathogens and inflammation regulation.
+•	Deficiencies or dysregulation of MASP-2 can lead to immune system-related disorders.
+
+
+#Exon 1_15 alignment 119:
+
+ST7 (Gene: ST7)
+•	Function: The Suppressor of Tumorigenicity 7 (ST7) gene is associated with the regulation of cell growth, differentiation, and tumor suppression. It is often implicated in preventing the development of cancerous cells by regulating cellular pathways that control proliferation and apoptosis (programmed cell death).
+•	Role in Tumor Suppression:
+o	ST7 is known for its tumor-suppressing activity, meaning it helps to prevent tumor formation and spread.
+o	It is involved in regulating processes such as cell cycle progression and cellular response to stress, which are crucial for maintaining normal cell function and preventing malignant transformation.
+•	Isoforms: The ST7 gene produces several isoforms, which may be tissue-specific or have slightly different functions:
+o	Isoform X7, X10, X8, X5, and X14: These are alternative splicing variants of the ST7 gene. While their exact functions can vary, they all share the core role in tumor suppression and cell cycle regulation.
+•	Clinical Relevance:
+o	ST7 mutations or dysregulation have been implicated in various cancers, including breast cancer and colon cancer. Loss of function of ST7 can lead to uncontrolled cell proliferation, a hallmark of cancer.
+o	Additionally, the presence of ST7 isoforms may have potential therapeutic implications. Isoform-specific functions are still under investigation, and understanding these could help develop targeted therapies for cancer treatment.
+In Summary:
+•	ST7 is a tumor suppressor gene that plays a crucial role in preventing cancer by regulating cell growth and apoptosis.
+•	It is involved in maintaining cellular balance and preventing the development of malignant tumors.
+•	Different isoforms of the ST7 gene may have specific roles in various tissues, and mutations in this gene can lead to cancer progression.
+

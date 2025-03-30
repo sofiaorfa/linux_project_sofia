@@ -1,0 +1,5 @@
+RF_/home/sofia/linux_bioinformatics/gene_trees/uc001bug.4.treefile	30
+RF_/home/sofia/linux_bioinformatics/gene_trees/uc001bgi.3.treefile	32
+RF_/home/sofia/linux_bioinformatics/gene_trees/uc001boq.4.treefile	32
+RF_/home/sofia/linux_bioinformatics/gene_trees/uc001fvc.4.treefile	32
+RF_/home/sofia/linux_bioinformatics/gene_trees/uc001bht.4.treefile	34

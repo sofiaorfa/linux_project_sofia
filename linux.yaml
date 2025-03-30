@@ -1,0 +1,32 @@
+# linux.yaml
+
+# Tool 
+tools:
+  iqtree2: "/usr/local/bin/iqtree2"  # Path to iqtree2 
+  blastp: "/usr/local/bin/blastp"  # Path to blastp executable
+  rscript: "/usr/local/bin/Rscript"  # Path to Rscript
+
+# Data paths
+data:
+  input_file: "/home/sofia/linux_bioinformatics/knownCanonical.exonAA.fa"  # Path to the raw alignment file
+  output_dir: "/path/to/results/"  # Directory to store the results (phylogenetic trees, merged sequences, etc.)
+
+# Paths for the analysis
+paths:
+  split_alignments: "/home/sofia/linux_bioinformatics/split_alignments"  # Directory for split alignments
+  phylogenetic_trees: "/home/sofia/linux_bioinformatics/phylogenetic_trees"  # Directory for phylogenetic trees
+  merged_sequences: "/home/sofia/linux_bioinformatics/merged_totalout.fa"  # Path to merged sequences
+  rf_distances: "/home/sofia/linux_bioinformatics/rf_distances.txt"  # Path to save RF distances
+  rf_gene_distances: "/home/sofia/linux_bioinformatics/rf_gene_distances.txt"  # Path to save RF gene distances
+  gene_trees: "/home/sofia/linux_bioinformatics/gene_trees"  # Directory to save gene trees
+  smallest_rf_file: "/home/sofia/linux_bioinformatics/smallest_rf.txt"  # Path to store the smallest RF distances
+  largest_rf_file: "/home/sofia/linux_bioinformatics/largest_rf.txt"  # Path to store the largest RF distances
+  grouped_genes: "/home/sofia/linux_bioinformatics/grouped_genes"  # Path to store grouped gene files
+  concatenated_genes: "/home/sofia/linux_bioinformatics/concatenated_genes/"  # Path for concatenated gene sequences
+  input_files: "home/sofia/linux_bioinformatics/input_files.txt"  # Path to store the list of input files for merge_sequences scrip
+  exons_output_file: "home/sofia/linux_bioinformatics/exons.txt"
+
+# Other configurations
+config:
+
+  bootstrap_replicates: 1000  # Number of bootstrap replicates for phylogenetic trees

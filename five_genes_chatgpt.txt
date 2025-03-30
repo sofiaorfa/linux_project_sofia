@@ -1,0 +1,72 @@
+uc001aru.4	ENST00000333360.12	selectin E
+uc001ggm.5	ENST00000356634.7	Lysine demethylase 1A [Source:HGNC Symbol;Acc:HGNC:29079]
+uc001gtj.4	ENST00000617670.6	flavin containing dimethylaniline monoxygenase 1
+uc009wvz.4	ENST00000361216.8	ATPase Na+/K+ transporting subunit alpha 2
+uc010pht.3	ENST00000367429.9	complement factor H
+uc001bug.4	ENST00000368195.4	insulin receptor related receptor
+uc001bgi.3	ENST00000373625.8	karyopherin subunit alpha 6
+uc001boq.4	ENST00000373954.11	family with sequence similarity 76 member A [
+uc001fvc.4	ENST00000374514.8	lysophospholipase 2 [
+uc001bht.4	ENST00000400897.8	MBL associated serine protease 2
+
+
+1. Selectin E (SEL-E):
+•	Gene Symbol: SEL-E
+•	Function: Selectin E (also known as E-selectin) is a cell adhesion molecule expressed on endothelial cells and is involved in the recruitment of white blood cells to sites of inflammation. It is important in immune response and vascular biology.
+•	Role: It mediates the initial attachment of leukocytes to the vascular endothelium during inflammation.
+•	Associated Disorders: Dysregulation of E-selectin is linked to inflammatory diseases and atherosclerosis.
+________________________________________
+2. Lysine Demethylase 1A (KDM1A):
+•	HGNC Symbol: KDM1A (also known as LSD1)
+•	Function: Lysine demethylase 1A is an enzyme that demethylates lysine residues on histones, thereby regulating gene expression and chromatin structure.
+•	Role: It plays a key role in the regulation of gene expression, cell differentiation, and development.
+•	Associated Disorders: It has been implicated in various cancers, including breast cancer and leukemia, as it is involved in gene silencing and epigenetic regulation.
+________________________________________
+3. Flavin-containing Dimethylaniline Monooxygenase 1 (FMO1):
+•	Gene Symbol: FMO1
+•	Function: This is an enzyme involved in oxidation reactions, particularly N-oxidation of amines.
+•	Role: It is part of the FMO family, which is involved in drug metabolism and detoxification processes in the liver.
+•	Associated Disorders: It is important for detoxifying foreign substances and can impact the metabolism of various drugs.
+________________________________________
+4. ATPase Na+/K+ Transporting Subunit Alpha 2 (ATP1A2):
+•	Gene Symbol: ATP1A2
+•	Function: This gene encodes a subunit of the Na+/K+ ATPase pump, which is essential for maintaining the electrochemical gradient across cell membranes.
+•	Role: It plays a critical role in nerve function, muscle contraction, and fluid balance.
+•	Associated Disorders: Mutations in ATP1A2 are associated with familial hemiplegic migraine and other neurological disorders.
+________________________________________
+5. Complement Factor H (CFH):
+•	Gene Symbol: CFH
+•	Function: Complement Factor H is a regulatory protein of the complement system, which is part of the immune system.
+•	Role: It regulates the alternative complement pathway and prevents damage to host tissues during immune responses.
+•	Associated Disorders: Mutations in CFH can lead to conditions like age-related macular degeneration and atypical hemolytic uremic syndrome (aHUS).
+________________________________________
+6. Insulin Receptor Related Receptor (INSRR):
+•	Gene Symbol: INSRR
+•	Function: This receptor is structurally similar to the insulin receptor but has distinct functions.
+•	Role: It may be involved in insulin-like signaling pathways, although its precise role is still not fully understood.
+•	Associated Disorders: The role of INSRR in metabolic diseases is still under investigation.
+________________________________________
+7. Karyopherin Subunit Alpha 6 (KPNA6):
+•	Gene Symbol: KPNA6
+•	Function: Karyopherin alpha 6 is part of a nuclear transport complex responsible for the import of proteins into the nucleus.
+•	Role: It helps in the transport of proteins from the cytoplasm into the nucleus, facilitating processes like gene expression regulation.
+•	Associated Disorders: Alterations in nuclear import processes have been linked to diseases like neurodegenerative disorders and cancers.
+________________________________________
+8. Family with Sequence Similarity 76 Member A (FAM76A):
+•	Gene Symbol: FAM76A
+•	Function: FAM76A is a protein-coding gene whose exact function remains to be fully characterized.
+•	Role: It is likely involved in various cellular processes, but its precise role is still under investigation.
+•	Associated Disorders: No clear disease associations have been identified, as the gene's function is not yet fully understood.
+________________________________________
+9. Lysophospholipase 2 (LYPLAL2):
+•	Gene Symbol: LYPLAL2
+•	Function: Lysophospholipase 2 is an enzyme that hydrolyzes lysophospholipids, which are important for maintaining the structure and function of cell membranes.
+•	Role: It plays a role in lipid metabolism and might be involved in regulating membrane trafficking and signal transduction.
+•	Associated Disorders: Its role in disease is still unclear, but disruptions in lipid metabolism are often associated with conditions like obesity, cardiovascular diseases, and cancer.
+________________________________________
+10. MBL-Associated Serine Protease 2 (MASP2):
+•	Gene Symbol: MASP2
+•	Function: MASP2 is a serine protease that is involved in the lectin pathway of the complement system, which is a part of the innate immune response.
+•	Role: It plays a key role in immune defense by cleaving and activating components of the complement system.
+•	Associated Disorders: Mutations in MASP2 can lead to complement-related diseases, including autoimmune diseases and infections due to an impaired immune response.
+

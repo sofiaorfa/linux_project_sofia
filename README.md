@@ -4,40 +4,41 @@ HOW TO RUN THE PROJECT IN ORDER:
 exonAA.fa.gz" --> Download the alignments 
 
 2.Seperate first 500 alignments 
-split_alignments.sh 
+ Use split_alignments.sh 
 
 3.Construct 500 phylogentix trees(1per alignment)
 sudo apt update
 sudo apt install iqtree2
-phylo_trees.sh
+ use phylo_trees.sh
 
 4.Merge Sequences
-./merge_sequences <split_alignments> merged_totalout.fa
+use ./merge_sequences <split_alignments> merged_totalout.fa
 iqtree2 -s merged_totalout.fa -B 1000
 
 5.Compare trees 
-compare_trees.sh 
+use compare_trees.sh 
 
 6.Find the 5 exons with the minimum rf 
-five_exons.sh 
+use five_exons.sh 
 chatgpt_five_exons.txt --> for information about the exons 
 
 7.Create the gene's sequences
-identify_genes.sh 
-conc_genes
+use first identify_genes.sh 
+and then conc_genes
 
 8.Create the trees for the genes
-create_gene_trees.sh
+use create_gene_trees.sh
 
 9.Compare gene trees with the merged_totalout.fa.treefile
-compare_gene_trees.sh
+use compare_gene_trees.sh
 
 10.Find the 5 with the minimum and the 5 with the maximum rf 
-gene_smallest_largest_rf.sh
+use gene_smallest_largest_rf.sh
 
 11. Chatgpt for the results of the previous step
     five_genes_chatgpt.txt
 
 
 Consult the Dockerfile and the linux.yaml for necessary tools and filepaths
-I couldn't submit the split alignments and the phylogenetic trees folders as they have too many files and it is not practical to upload them in a GitHub if you need them maybe provide a more efficient way.
+I couldn't submit the split alignments and the phylogenetic trees folders as they have too many files and it is not practical to upload them in a GitHub if you need them maybe consider another way.
+I made comments for each line oof code on the scripts to make it easier instead of a report.
